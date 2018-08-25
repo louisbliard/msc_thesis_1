@@ -1,1 +1,1 @@
-# msc_thesis_1
+# mscthesis1
